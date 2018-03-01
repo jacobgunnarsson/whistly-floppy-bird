@@ -5,3 +5,8 @@ This is a massacre of [nebez floppy bird](https://github.com/nebez/floppybird) a
 and [volume-meter](https://github.com/cwilso/volume-meter).
 
 Whistle to control the floppy bird. Higher pitch means more acceleration.
+
+```
+$ npm install -g node-static
+$ static -p 8000
+```
